@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://unto-leaves-friendly-approximate.trycloudflare.com/vnc.html
+URL       : https://duties-stronger-switch-bits.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-03 18:28:57
+Created   : 2026-09-03 22:28:40
 =======================================================
