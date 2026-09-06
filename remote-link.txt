@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://steam-universities-covers-hosting.trycloudflare.com/vnc.html
+URL       : https://endangered-likes-kay-scientific.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 22:01:33
+Created   : 2026-09-06 03:52:14
 =======================================================
