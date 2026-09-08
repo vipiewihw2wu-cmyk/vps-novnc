@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dosage-cage-ram-josh.trycloudflare.com/vnc.html
+URL       : https://campus-spell-beauty-helping.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-08 14:19:32
+Created   : 2026-09-08 18:28:43
 =======================================================
