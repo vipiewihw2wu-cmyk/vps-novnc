@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://institutions-aug-fig-numeric.trycloudflare.com/vnc.html
+URL       : https://scale-craft-leasing-swing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-12 22:05:41
+Created   : 2026-09-13 10:06:40
 =======================================================
