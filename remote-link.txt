@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://arranged-shortly-helped-herein.trycloudflare.com/vnc.html
+URL       : https://machine-administrator-radius-golden.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-04 15:14:24
+Created   : 2026-10-04 22:56:39
 =======================================================
