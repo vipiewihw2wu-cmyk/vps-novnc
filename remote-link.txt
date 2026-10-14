@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://priority-tournaments-fire-seriously.trycloudflare.com/vnc.html
+URL       : https://hampton-info-psi-monday.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 15:03:59
+Created   : 2026-10-14 23:06:21
 =======================================================
