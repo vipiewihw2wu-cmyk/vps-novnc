@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://individuals-adipex-fee-taxation.trycloudflare.com/vnc.html
+URL       : https://rica-thy-newly-welding.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 23:00:36
+Created   : 2026-10-16 04:05:43
 =======================================================
