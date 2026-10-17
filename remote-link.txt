@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://courses-highest-miniature-milk.trycloudflare.com/vnc.html
+URL       : https://uniprotkb-fusion-news-laughing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 22:44:49
+Created   : 2026-10-17 03:52:04
 =======================================================
