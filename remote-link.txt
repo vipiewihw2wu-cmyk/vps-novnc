@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://drill-strictly-superior-feel.trycloudflare.com/vnc.html
+URL       : https://syndication-hrs-shell-outsourcing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 19:07:39
+Created   : 2026-10-20 23:05:45
 =======================================================
