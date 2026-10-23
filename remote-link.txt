@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wheel-editor-both-justin.trycloudflare.com/vnc.html
+URL       : https://friend-avoiding-trading-ticket.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-23 14:48:52
+Created   : 2026-10-23 18:59:43
 =======================================================
