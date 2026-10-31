@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://prohibited-finally-changing-ears.trycloudflare.com/vnc.html
+URL       : https://offices-boutique-application-egg.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 19:12:34
+Created   : 2026-10-31 23:14:14
 =======================================================
