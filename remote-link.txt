@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://offices-boutique-application-egg.trycloudflare.com/vnc.html
+URL       : https://attempts-confidentiality-automation-estimate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 23:14:14
+Created   : 2026-11-01 05:19:09
 =======================================================
