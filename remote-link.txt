@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://purse-our-rose-wool.trycloudflare.com/vnc.html
+URL       : https://uses-gilbert-discussions-deposit.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-07 23:33:31
+Created   : 2026-11-08 05:22:47
 =======================================================
