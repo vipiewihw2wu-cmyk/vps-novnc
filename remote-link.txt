@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://screen-reggae-charles-dover.trycloudflare.com/vnc.html
+URL       : https://external-asking-illustrations-arts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-11 21:50:17
+Created   : 2026-11-12 06:48:27
 =======================================================
