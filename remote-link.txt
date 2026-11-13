@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://external-asking-illustrations-arts.trycloudflare.com/vnc.html
+URL       : https://ridge-reasonable-albany-dogs.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-12 06:48:27
+Created   : 2026-11-13 00:59:37
 =======================================================
