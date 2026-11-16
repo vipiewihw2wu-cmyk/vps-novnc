@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nose-life-tenant-regarding.trycloudflare.com/vnc.html
+URL       : https://iso-suspected-inline-links.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-15 23:53:51
+Created   : 2026-11-16 05:43:10
 =======================================================
