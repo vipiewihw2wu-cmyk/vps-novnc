@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://enabling-remix-temperature-conclusions.trycloudflare.com/vnc.html
+URL       : https://hierarchy-spatial-charge-pattern.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-16 20:10:05
+Created   : 2026-11-17 07:20:36
 =======================================================
