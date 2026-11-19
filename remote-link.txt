@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://powder-drums-ambient-mapping.trycloudflare.com/vnc.html
+URL       : https://artwork-charity-second-eliminate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-18 22:33:20
+Created   : 2026-11-19 06:46:27
 =======================================================
