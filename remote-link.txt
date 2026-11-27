@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://appropriations-feeding-rss-sofa.trycloudflare.com/vnc.html
+URL       : https://mate-eve-achieved-edited.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-26 14:52:54
+Created   : 2026-11-27 07:39:00
 =======================================================
