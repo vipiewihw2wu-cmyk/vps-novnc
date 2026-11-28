@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://walker-contrast-protest-policies.trycloudflare.com/vnc.html
+URL       : https://dried-palestinian-recognition-sperm.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-28 02:34:35
+Created   : 2026-11-28 14:00:44
 =======================================================
